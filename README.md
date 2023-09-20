@@ -2,7 +2,7 @@ p.s.  **check the master branch**
 
 ---
 
-# PhotoShare - React, Sanity Photo Sharing Website
+# Stolen_Frames - React, Sanity Photo Sharing Website
 
 **PhotoShare** is a dynamic and user-friendly photo sharing website built using React for the frontend, Node.js for the backend, and MongoDB for data storage. This platform allows users to seamlessly upload, share, and discover captivating photos, making it a perfect space for photography enthusiasts and visual storytellers.
 
