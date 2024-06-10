@@ -30,7 +30,6 @@ p.s.  **check the master branch**
 
 - **Frontend**: React, React Router, Axios, and more.
 - **Backend**: Sanity CMS, and JWT for authentication.
-- **Deployment**: Host your website on platforms like Heroku, Netlify, or Vercel.
 
 ## Contributing:
 
